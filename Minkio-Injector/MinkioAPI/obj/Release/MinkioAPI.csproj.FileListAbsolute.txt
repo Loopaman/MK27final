@@ -1,0 +1,6 @@
+C:\Users\minks\OneDrive\Desktop\Minkio-Injector\MinkioAPI\bin\Release\MinkioAPI.dll
+C:\Users\minks\OneDrive\Desktop\Minkio-Injector\MinkioAPI\bin\Release\MinkioAPI.pdb
+C:\Users\minks\OneDrive\Desktop\Minkio-Injector\MinkioAPI\obj\Release\MinkioAPI.csproj.AssemblyReference.cache
+C:\Users\minks\OneDrive\Desktop\Minkio-Injector\MinkioAPI\obj\Release\MinkioAPI.csproj.CoreCompileInputs.cache
+C:\Users\minks\OneDrive\Desktop\Minkio-Injector\MinkioAPI\obj\Release\MinkioAPI.dll
+C:\Users\minks\OneDrive\Desktop\Minkio-Injector\MinkioAPI\obj\Release\MinkioAPI.pdb
